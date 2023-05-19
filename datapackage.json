@@ -177,7 +177,7 @@
     {
       "name": "ludwigslust-enriched",
       "format": "csv",
-      "path": "https://storage.openspending.org/ludwigslust-enriched.csv",
+      "path": "https://storage.openspending.org/ludwigslust/ludwigslust-enriched.csv",
       "mediatype": "application/vnd.ms-excel",
       "bytes": 16133244,
       "dialect": {
